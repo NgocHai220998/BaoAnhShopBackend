@@ -39,9 +39,9 @@ RailsAdmin.config do |config|
     # history_show
   end
 
-  config.model Product do
-    edit do
-      field :name
-    end
-  end
+  # config.model Product do
+  #   edit do
+  #     field :name
+  #   end
+  # end
 end
